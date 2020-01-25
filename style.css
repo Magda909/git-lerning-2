@@ -8,6 +8,7 @@ p{
     color:#2c3e50;
     font-size: 20px;
     text-align: center;
+    display: flex;
 }
 body {
     background-image: url(https://damian-krawczyk.pl/wp-content/uploads/2014/04/niebo.jpg);
